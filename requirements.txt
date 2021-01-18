@@ -1,0 +1,13 @@
+# -i https://pypi.doubanio.com/simple
+matplotlib
+pandas
+tqdm
+opencv-python
+visdom
+tb-nightly
+scikit-image
+tikzplotlib
+gdown
+jpeg4py
+pycocotools
+lvis
